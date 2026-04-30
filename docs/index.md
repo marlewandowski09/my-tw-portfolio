@@ -18,7 +18,7 @@ Since my professional work isn’t available publicly, I created this portfolio 
 ### Pole-Mount Bracket for Solar Panels: Installation Quick Guide
 I created a quick installation guide for a solar panel bracket mounted on a pole. I used **Adobe InDesign** for the layout, **PTC Creo** to export 3D views, and **Adobe Illustrator** to create the illustrations. The 3D model was created by [DraftEdge Eng](https://grabcad.com/draftedge.eng-1).
 
-[View Project](https://www.dropbox.com/scl/fi/9m5u2h0mn8zpwavsbfjd5/Solar_Panel_Pole_Bracket_QG.pdf?rlkey=vjf96y87rref0pgnx7pjn7j8b&st=k076qadg&dl=0)
+[View Project](https://www.dropbox.com/scl/fi/9m5u2h0mn8zpwavsbfjd5/Solar_Panel_Pole_Bracket_QG.pdf?rlkey=vjf96y87rref0pgnx7pjn7j8b&st=k076qadg&raw=1)
 
 ### StreamData Docs
 I built a documentation site using **Docusaurus**, and deployed it on GitHub Pages.  
