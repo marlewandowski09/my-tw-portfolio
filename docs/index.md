@@ -15,6 +15,11 @@ My name is **Mariusz Lewandowski**. I’m a technical writer specializing in **D
 Since my professional work isn’t available publicly, I created this portfolio to showcase my skills and writing samples.
 
 ## My projects:
+### Pole-Mount Bracket for Solar Panels: Installation Quick Guide
+I created a quick installation guide for a solar panel bracket mounted on a pole. I used **Adobe InDesign** for the layout, **PTC Creo** to export 3D views, and **Adobe Illustrator** to create the illustrations. The 3D model was created by [DraftEdge Eng.](https://grabcad.com/draftedge.eng-1).
+
+[View Project](docs/Pole-Mount Bracket for Solar Panels (Series  2PV).pdf)
+
 ### StreamData Docs
 I built a documentation site using **Docusaurus**, and deployed it on GitHub Pages.  
 It describes a fictional SaaS that fetches and visualizes data from APIs, CSV/JSON files, and databases.
