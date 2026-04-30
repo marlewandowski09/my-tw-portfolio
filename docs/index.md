@@ -16,13 +16,12 @@ Since my professional work isn’t available publicly, I created this portfolio 
 
 ## My projects:
 ### Pole-Mount Bracket for Solar Panels: Installation Quick Guide
-I created a quick installation guide for a solar panel bracket mounted on a pole. I used **Adobe InDesign** for the layout, **PTC Creo** to export 3D views, and **Adobe Illustrator** to create the illustrations. The 3D model was created by [DraftEdge Eng](https://grabcad.com/draftedge.eng-1).
+I created a quick installation guide for a solar panel bracket mounted on a pole. I used **Adobe InDesign** for the layout, **PTC Creo** to export 3D views, and **Adobe Illustrator** to create illustrations. The 3D model was created by [DraftEdge Eng](https://grabcad.com/draftedge.eng-1).
 
 [View Project](https://www.dropbox.com/scl/fi/9m5u2h0mn8zpwavsbfjd5/Solar_Panel_Pole_Bracket_QG.pdf?rlkey=vjf96y87rref0pgnx7pjn7j8b&st=k076qadg&raw=1)
 
 ### StreamData Docs
-I built a documentation site using **Docusaurus**, and deployed it on GitHub Pages.  
-It describes a fictional SaaS that fetches and visualizes data from APIs, CSV/JSON files, and databases.
+I built a full documentation site for a fictional SaaS tool that fetches and visualizes data from APIs, CSV/JSON files, and databases. I used **Docusaurus**, and deployed the site on GitHub Pages.
 
 [View Project](https://marlewandowski09.github.io/example-docs/)
 
@@ -32,7 +31,7 @@ I created an **OpenAPI specification** for a smart lighting system and deployed 
 [View Project](https://marlewandowski09.github.io/smart-light-api/)
 
 ### Technical article on private mmWave networks
-I wrote a technical article comparing **Fixed Wireless Access (FWA)** and **Integrated Access and Backhaul (IAB)** for private 5G mmWave networks. It demonstrates my ability to explain complex networking concepts clearly.
+I wrote a technical article comparing **Fixed Wireless Access (FWA)** and **Integrated Access and Backhaul (IAB)** for private 5G mmWave networks.
 
 [View Project](https://juicy-tank-cfa.notion.site/Private-mmWave-Networks-Fixed-Wireless-Access-FWA-vs-Integrated-Access-and-Backhaul-IAB-304e88f7eaa580509cc1cb58fe1c19bf)
 
