@@ -17,9 +17,10 @@ Since my professional work isn’t available publicly, I created this portfolio 
 ## My projects:
 ### Digital Thermometer IFU (Instructions for Use)
 In this project, I audited and recreated Instructions for Use (IFU) for a standard digital medical thermometer. The goal was to transform a dense, text-heavy document  into a user-centric, highly scannable guide that prioritizes patient safety and ease of use. 
+
 I restructured the information hierarchy, simplified content organization, and introduced clearer visuals. The redesign was created with attention to medical device IFU best practices and usability principles.
 
-The layout and document design were created in Affinity Designer. Supporting graphics were generated with AI (Gemini) and refined through manual editing. The original IFU is available [here](https://www.ecomed.com.au/shop/our-products/diagnostic-equipment/thermometry/ecomed-digital-thermometer/)
+The layout and document design were created in **Affinity**. Supporting graphics were generated with AI (Gemini) and refined through manual editing. The original IFU is available [here](https://www.ecomed.com.au/shop/our-products/diagnostic-equipment/thermometry/ecomed-digital-thermometer/)
 
 [View Project](https://www.dropbox.com/scl/fi/lx7dkj7v51ugrljm939lo/Digital_Thermometer_IFU.pdf?rlkey=qcsqstucubf8g388v17bk2g1l&st=dtodle1u&raw=1)
 
