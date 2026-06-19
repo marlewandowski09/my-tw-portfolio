@@ -5,12 +5,11 @@ layout: home
 hero:
   name: "Mariusz Lewandowski"
   text: "Technical Writer"
-
-
+  
 ---
 
 ## About
-My name is **Mariusz Lewandowski**. I’m a technical writer specializing in **DITA content architecture** and **hardware documentation**. I’m also familiar with **docs-as-code workflows**, Markdown, static site generators, and creating API references. 
+Hi, I'm **Mariusz Lewandowski**. I’m a technical writer specializing in **DITA content architecture** and **hardware documentation**. I also bring hands-on experience in **docs-as-code** workflows, **Markdown**, **static site generators**, and creating **API references**.
 
 Since my professional work isn’t available publicly, I created this portfolio to showcase my skills and writing samples.
 
