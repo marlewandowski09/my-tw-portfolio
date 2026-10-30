@@ -23,6 +23,11 @@ The layout and document design were created in **Affinity**. Supporting graphics
 
 [View Project](https://www.dropbox.com/scl/fi/lx7dkj7v51ugrljm939lo/Digital_Thermometer_IFU.pdf?rlkey=qcsqstucubf8g388v17bk2g1l&st=dtodle1u&raw=1)
 
+### UX Writing
+I completed UX writing exercises using prompts from [Daily UX Writing](https://dailyuxwriting.com/), focusing on clear, concise, and user-friendly microcopy. I also created AI-assisted UI mockups to showcase how the copy works in a realistic product interface.
+
+[View Project](https://juicy-tank-cfa.notion.site/Daily-UX-Writing-Challenge-409e88f7eaa58045beeadcf008614953?source=copy_link)
+
 ### Smart Light API Reference
 I created an **OpenAPI specification** for a smart lighting system and deployed it with **Redocly** on GitHub Pages. This API reference allows developers to manage smart lights through a structured API.
 
