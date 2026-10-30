@@ -9,7 +9,7 @@ hero:
 ---
 
 ## About
-Hi, I'm **Mariusz Lewandowski**. I’m a technical writer specializing in **DITA content architecture** and **hardware documentation**. I also bring hands-on experience in **docs-as-code** workflows, **Markdown**, **static site generators**, and creating **API references**.
+Hi, I'm **Mariusz Lewandowski**. I’m a technical writer specializing in **content architecture** and **hardware documentation**. I also bring hands-on experience in **docs-as-code** workflows, **Markdown**, **static site generators**, **UX writing**, and creating **API references**.
 
 Since my professional work isn’t available publicly, I created this portfolio to showcase my skills and writing samples.
 
@@ -37,6 +37,11 @@ I created a quick installation guide for a solar panel bracket mounted on a pole
 I built a full documentation site for a fictional SaaS tool that fetches and visualizes data from APIs, CSV/JSON files, and databases. I used **Docusaurus**, and deployed the site on GitHub Pages.
 
 [View Project](https://marlewandowski09.github.io/example-docs/)
+
+### Voice & Tone Guidelines
+This is an excerpt from a technical writing style guide I created to establish consistent communication standards across product documentation. It focuses on defining the product's voice and explaining how to adapt its tone to different communication contexts.
+
+[View Project](https://juicy-tank-cfa.notion.site/Style-voice-and-tone-409e88f7eaa580fbb996ef9073b076ac?source=copy_link)
 
 ### Technical article on private mmWave networks
 I wrote a technical article comparing **Fixed Wireless Access (FWA)** and **Integrated Access and Backhaul (IAB)** for private 5G mmWave networks.
