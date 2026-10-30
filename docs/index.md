@@ -39,7 +39,7 @@ I built a full documentation site for a fictional SaaS tool that fetches and vis
 [View Project](https://marlewandowski09.github.io/example-docs/)
 
 ### Voice & Tone Guidelines
-This is an excerpt from a technical writing style guide I created to establish consistent communication standards across product documentation. It focuses on defining the product's voice and explaining how to adapt its tone to different communication contexts.
+This is an excerpt from a technical writing style guide I created to establish consistent communication standards across product documentation. It focuses on defining the voice and tone used throughout the documentation.
 
 [View Project](https://juicy-tank-cfa.notion.site/Style-voice-and-tone-409e88f7eaa580fbb996ef9073b076ac?source=copy_link)
 
