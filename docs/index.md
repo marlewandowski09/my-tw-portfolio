@@ -29,8 +29,7 @@ I completed UX writing exercises using prompts from [Daily UX Writing](https://d
 
 [View Project](https://juicy-tank-cfa.notion.site/Daily-UX-Writing-Challenge-409e88f7eaa58045beeadcf008614953?source=copy_link)
 
-**AirSync: Smart Home WiFi** (Onboarding experience)
-
+#### AirSync: Smart Home WiFi (Onboarding Experience)
 I designed a first-time user onboarding experience for a fictional smart home management app. The project focuses on helping users connect their router through a clear, guided setup process. The UI mockups were created using Figma AI.
 
 [View Project](https://www.dropbox.com/scl/fi/gpc1o7xcsaqw2ci7ukyn4/AirSync_Onboarding.pdf?rlkey=5fas38566p11a0gxxnryjqicl&st=z6paqv5y&raw=1)
