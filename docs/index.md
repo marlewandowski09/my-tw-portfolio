@@ -23,17 +23,6 @@ The layout and document design were created in **Affinity**. Supporting graphics
 
 [View Project](https://www.dropbox.com/scl/fi/lx7dkj7v51ugrljm939lo/Digital_Thermometer_IFU.pdf?rlkey=qcsqstucubf8g388v17bk2g1l&st=dtodle1u&raw=1)
 
-### UX Writing
-#### Daily UX Writing Challenge
-I completed UX writing exercises using prompts from [Daily UX Writing](https://dailyuxwriting.com/), focusing on clear, concise, and user-friendly microcopy. I also created AI-assisted UI mockups to showcase how the copy works in a realistic product interface.
-
-[View Project](https://juicy-tank-cfa.notion.site/Daily-UX-Writing-Challenge-409e88f7eaa58045beeadcf008614953?source=copy_link)
-
-#### AirSync: Smart Home WiFi (Onboarding Experience)
-I designed a first-time user onboarding experience for a fictional smart home management app. The project focuses on helping users connect their router through a clear, guided setup process. The UI mockups were created using Figma AI.
-
-[View Project](https://www.dropbox.com/scl/fi/gpc1o7xcsaqw2ci7ukyn4/AirSync_Onboarding.pdf?rlkey=5fas38566p11a0gxxnryjqicl&st=z6paqv5y&raw=1)
-
 ### Smart Light API Reference
 I created an **OpenAPI specification** for a smart lighting system and deployed it with **Redocly** on GitHub Pages. This API reference allows developers to manage smart lights through a structured API.
 
@@ -48,6 +37,17 @@ I created a quick installation guide for a solar panel bracket mounted on a pole
 I built a full documentation site for a fictional SaaS tool that fetches and visualizes data from APIs, CSV/JSON files, and databases. I used **Docusaurus**, and deployed the site on GitHub Pages.
 
 [View Project](https://marlewandowski09.github.io/example-docs/)
+
+### UX Writing
+#### Daily UX Writing Challenge
+I completed UX writing exercises using prompts from [Daily UX Writing](https://dailyuxwriting.com/), focusing on clear, concise, and user-friendly microcopy. I also created AI-assisted UI mockups to showcase how the copy works in a realistic product interface.
+
+[View Project](https://juicy-tank-cfa.notion.site/Daily-UX-Writing-Challenge-409e88f7eaa58045beeadcf008614953?source=copy_link)
+
+#### AirSync: Smart Home WiFi (Onboarding Experience)
+I designed a first-time user onboarding experience for a fictional smart home management app. The project focuses on helping users connect their router through a clear, guided setup process. The UI mockups were created using Figma AI.
+
+[View Project](https://www.dropbox.com/scl/fi/gpc1o7xcsaqw2ci7ukyn4/AirSync_Onboarding.pdf?rlkey=5fas38566p11a0gxxnryjqicl&st=z6paqv5y&raw=1)
 
 ### Voice & Tone Guidelines
 This is an excerpt from a technical writing style guide I created to establish consistent communication standards across product documentation. It focuses on defining the voice and tone used throughout the documentation.
