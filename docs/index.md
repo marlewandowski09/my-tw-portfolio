@@ -9,7 +9,7 @@ hero:
 ---
 
 ## About
-Hi, I'm **Mariusz Lewandowski**. I’m a technical writer specializing in **content architecture**, **hardware documentation**, and **learning content development**. I also bring hands-on experience in **docs-as-code** workflows, **Markdown**, **static site generators**, and creating **API references**.
+Hi, I'm **Mariusz Lewandowski**. I’m a technical writer specializing in **content architecture**, **hardware documentation**, and **instructional content development**. I also bring hands-on experience in **docs-as-code** workflows, **Markdown**, **static site generators**, and creating **API references**.
 
 Since my professional work isn’t available publicly, I created this portfolio to showcase my skills and writing samples.
 
