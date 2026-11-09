@@ -23,6 +23,12 @@ The layout and document design were created in **Affinity**. Supporting graphics
 
 [View Project](https://www.dropbox.com/scl/fi/lx7dkj7v51ugrljm939lo/Digital_Thermometer_IFU.pdf?rlkey=qcsqstucubf8g388v17bk2g1l&st=dtodle1u&raw=1)
 
+### Before You Climb – Microlearning 03: RF Exposure Safety
+
+I designed and developed a microlearning module focused on Radio Frequency (RF) exposure safety for field technicians installing radio equipment on masts and rooftops. I used **Articulate Storyline** to create the module and hosted it on **GitHub Pages**.
+
+[View Project](https://marlewandowski09.github.io/rf-exposure-articulate-training/)
+
 ### Smart Light API Reference
 I created an **OpenAPI specification** for a smart lighting system and deployed it with **Redocly** on GitHub Pages. This API reference allows developers to manage smart lights through a structured API.
 
